@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-* Python >=3.9<=3.14 (preferably 3.12+)
+* Python >=3.9<3.14 (preferably 3.12+)
 * [uv](https://docs.astral.sh/uv/) or another Python package/environment manager
 * wget
 * gsutil
