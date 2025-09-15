@@ -1,0 +1,8 @@
+##gff-version 3
+chr1	source	CDS	100	300	.	+	0	ID=cds1;Name=geneA;product=CRISPR-associated protein Cas1
+chr1	source	CDS	310	500	.	+	0	ID=cds2;Name=geneB;product=hypothetical protein
+chr1	source	CDS	520	700	.	+	0	ID=cds3;Name=geneC;product=CRISPR repeat-binding protein
+chr1	source	CDS	900	1100	.	+	0	ID=cds4;Name=geneD;product=transposase
+chr1	source	CDS	1110	1300	.	+	0	ID=cds5;Name=geneE;product=Cas3 helicase
+chr1	source	CDS	2000	2200	.	-	0	ID=cds6;Name=geneF;product=regulatory protein
+chr1	source	CDS	2210	2400	.	-	0	ID=cds7;Name=geneG;product=hypothetical protein

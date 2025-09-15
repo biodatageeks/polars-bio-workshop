@@ -1,0 +1,20 @@
+[project]
+name = "polars-bio-workshop"
+version = "0.1.0"
+description = "Polars-bio workshop materials"
+requires-python = ">=3.9,<=3.14"
+dependencies = [
+    "polars-bio==0.17.2",
+#    "polars-bio @ git+https://github.com/biodatageeks/polars-bio.git@73e6e65441d45c43e0d28b3890bd3e4fe2e8779f" ,
+    "jupyterlab",
+    "ipykernel",
+    "matplotlib",
+    "seaborn",
+    "ipywidgets",
+    "memory-profiler",
+    "bioframe==0.8.0"
+
+]
+
+[dependency-groups]
+dev = []
