@@ -7,7 +7,7 @@
 * [uv](https://docs.astral.sh/uv/) or another Python package/environment manager
 * wget
 * gsutil
-* gzip and [bgzip](https://www.htslib.org/doc/bgzip.html) 
+* gzip and [bgzip](https://www.htslib.org/doc/bgzip.html), e.g. `brew install htslib`
 * Linux/macOS/Windows (preferably Linux or macOS)
 * Internet connection (for downloading files)
 
