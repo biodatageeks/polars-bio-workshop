@@ -29,5 +29,5 @@ python -c "import polars_bio; print(polars_bio.__version__)"
 ### Run notebooks
 
 ```bash
-jupyter-lab notebook
+uv run jupyter-lab notebook
 ```
