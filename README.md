@@ -7,7 +7,7 @@
 * [uv](https://docs.astral.sh/uv/) or another Python package/environment manager
 * wget or curl
 * gsutil
-* gzip and bgzip (optional, there are prepacked files available for download, see notebooks)
+* gzip and [bgzip](https://www.htslib.org/doc/bgzip.html) 
 * Linux/macOS/Windows (preferably Linux or macOS)
 * Internet connection (for downloading files)
 
