@@ -5,7 +5,7 @@
 
 * Python >=3.9<=3.14 (preferably 3.12+)
 * [uv](https://docs.astral.sh/uv/) or another Python package/environment manager
-* wget or curl
+* wget
 * gsutil
 * gzip and [bgzip](https://www.htslib.org/doc/bgzip.html) 
 * Linux/macOS/Windows (preferably Linux or macOS)
